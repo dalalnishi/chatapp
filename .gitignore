@@ -1,5 +1,5 @@
-/node_modules
-/public
-/server
+node_modules
+public/
+server/
 /package
 /package.json
