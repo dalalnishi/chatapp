@@ -1,3 +1,5 @@
-node_modules
 public/
 server/
+package.json
+package-lock.json
+node_modules/
